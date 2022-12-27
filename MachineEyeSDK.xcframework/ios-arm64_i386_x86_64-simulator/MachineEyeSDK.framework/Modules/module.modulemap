@@ -1,0 +1,6 @@
+framework module MachineEyeSDK {
+  umbrella header "MachineEyeSDK.h"
+
+  export *
+  module * { export * }
+}
